@@ -1,0 +1,5 @@
+F:\InferenceWebService\InferenceWebService\bin\InferenceWebService.dll
+F:\InferenceWebService\InferenceWebService\bin\InferenceWebService.pdb
+F:\InferenceWebService\InferenceWebService\obj\Release\ResolveAssemblyReference.cache
+F:\InferenceWebService\InferenceWebService\obj\Release\InferenceWebService.dll
+F:\InferenceWebService\InferenceWebService\obj\Release\InferenceWebService.pdb
